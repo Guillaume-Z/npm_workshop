@@ -2,12 +2,12 @@
   "name": "npm_workshop",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "start": "index.js"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
-  "type": "module",
   "license": "ISC",
   "description": "",
   "dependencies": {
